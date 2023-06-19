@@ -1,0 +1,242 @@
+ body{
+background-image: url(../img/quote_4x.png);
+ }
+ 
+ h1{
+    text-align: center;
+    top: 33px;
+    font-size:64px ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+ }
+
+   .a2:hover{
+    box-shadow: 0px 0px 55px rgb(239, 235, 241);
+    color: rgb(163, 32, 130);
+    background-image: url(../img/1613260835_74-p-sinii-fon-tsifri-121.jpg);
+   }
+   .a2{
+    text-decoration: none;
+    color: #ffffff;
+   }
+
+ .class{
+    text-align: center;
+    margin-left: 200px;
+    width: 144px;
+    height: 44px;
+    margin-top: 39px;
+    font-size: 10px;
+    color: rgb(231, 229, 212);
+    background-color: rgb(238, 237, 225);
+  }
+  .syper{
+    text-align: center;
+    margin-left: 220px;
+    width: 200px;
+    height: 44px;
+    margin-top: 39px;
+    font-size: 10px;
+    color: rgb(243, 243, 238);
+    background-color: rgb(247, 246, 241);
+  }
+  .fantastic{
+    text-align: center;
+    margin-left: 230px;
+    width: 200px;
+    height: 44px;
+    margin-top: 30px;
+    color: rgb(247, 246, 237);
+    background-color: rgb(247, 246, 239);
+  }
+  .class2{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+  }
+  .syper2{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif
+   
+  }
+  .fantastic2{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+  }
+  .class:hover{
+    background: rgb(250, 249, 247);
+    color: rgb(243, 242, 239);
+    box-shadow:  0px 0px 25px rgb(228, 7, 7);
+    border: 3px solid rgb(168, 27, 27);
+    
+  }
+  .syper:hover{
+    background: rgb(255, 253, 253);
+    color: rgb(253, 252, 249);
+    box-shadow: 0px 0px 25px rgb(68, 206, 14);
+    border: 2px solid rgb(50, 202, 37);
+
+  }
+  .fantastic:hover{
+    background: rgb(253, 252, 250);
+    color: rgb(255, 255, 255);
+    box-shadow:  0px 0px 25px rgb(6, 9, 167);
+    border: 3px solid rgb(35, 21, 97);
+    animation-name: glowing;
+    
+  }
+  .class2:hover{
+    color: red;
+  }
+  .syper2:hover{
+    color: green;
+  }
+ .fantastic2:hover{
+    color: blue;
+    
+ }
+  .logo{
+   position: absolute;
+    border-radius: 75%;
+    margin-top:  -150px;  
+    width:90px; 
+    height: 90px;
+    margin-left: -1185px;
+  }
+  .logo2{
+    position: absolute;
+    margin-top: 125px;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    margin-left: -545px;
+    border: #4e15eb;
+    color: #4e15eb;
+    background-color: rgb(192, 71, 63);
+    border-radius: 75%;
+  }
+  .logo2:hover{
+    box-shadow: 10px 8px 75px rgb(226, 11, 11);
+  }
+  .image{
+    margin-top: 240px;
+    margin-left: 50px;
+    width: 200px;
+    height: 400px;
+    border-radius: 75px;
+  } 
+  .container{
+    display: inline-block;
+    position: relative;  
+  }
+  .text1{
+    text-align: center;
+    margin-top: -344px;
+    margin-left: 333px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+    animation-name: FadeLeft;
+  }
+  .text1:hover{
+    box-shadow: 0px 0px 35px rgb(79, 79, 175);
+    font-size: 56px;
+    background-color: rgb(255, 255, 255);
+    color: #4e15eb;
+  }
+   .image1{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 60px;
+    width: 200px;
+    height: 400px;
+    border-radius: 75px;
+   }
+   .text2{
+    text-align: center;
+    margin-top: 444px;
+    margin-left: 333px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+   }
+   .text2:hover{
+    box-shadow: 0px 0px 35px rgb(79, 79, 175);
+    font-size: 56px;
+    background-color: rgb(255, 255, 255);
+    color: #d61d1d;
+   }
+   .image2{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 1200px;
+    width: 200px;
+    height: 400px;
+    border-radius: 75px;
+   }
+   .text3{
+    margin-top: 444px;
+    margin-left: -19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+   }
+   .text3:hover{
+    box-shadow: 0px 0px 35px rgb(79, 79, 175);
+    font-size: 56px;
+    background-color: rgb(255, 255, 255);
+    color: #15d615;
+   }
+   .image3{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 1200px;
+    width: 200px;
+    height: 400px;
+    border-radius: 75px;
+   }
+   .text4{
+    margin-top: 444px;
+    margin-left: -19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+   }
+   .text4:hover{
+    box-shadow: 0px 0px 35px rgb(79, 79, 175);
+    font-size: 53px;
+    background-color: rgb(255, 255, 255);
+    color: #a0eb15;
+   }
+   .image4{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 60px;
+    width: 200px;
+    height: 400px;
+    border-radius: 75px;
+   }
+   .text5{
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 333px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+   }
+   .text5:hover{
+    box-shadow: 0px 0px 35px rgb(79, 79, 175);
+    font-size: 56px;
+    background-color: rgb(255, 255, 255);
+    color: #a81989;
+  }
